@@ -1,0 +1,35 @@
+.chart-container{
+    display: flex;
+    width: 300px;
+    height: 150px;
+    flex-wrap:nowrap;
+}
+
+.chart1{
+    display: flex;
+    width: 300px;
+    height: 150px;
+    justify-content: flex-start;
+    flex-wrap:nowrap;
+}
+
+.dropdown-menu{
+    height: 70px;
+    overflow-y: scroll;
+}
+
+input{
+    width: 300px;
+    box-sizing: content-box;
+}
+
+.Gene-Container{
+    height: 300px;
+    width: 300px;
+}
+
+#title{
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size-adjust: inherit;
+}
